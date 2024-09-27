@@ -1,2 +1,2 @@
 # BIOSIGNAL-ANALYSIS-FOR-SMOKING
-THIS PROJECT IS ABOUT A MACHINE LEARNING MODEL TRAINED FOR THE  PREDICTING WHETHER  THE GIVEN PERSON IS A SMOKER OR NOT USING THE GIVEN CRITERIONS
+This project is about a machine leanring modle trained for the  predicting whether the givne person is a smoker or not using the given criteriions.
